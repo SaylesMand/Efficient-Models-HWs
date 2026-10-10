@@ -1,4 +1,4 @@
-# Efficient Models: домашние задания
+# Efficient NN: домашние задания
 
 Домашние задания курса "Efficient NN" (AITH, 2026).
 
