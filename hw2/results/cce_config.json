@@ -1,0 +1,9 @@
+{
+  "name": "b64_v64_w4",
+  "BLOCK_B": 64,
+  "BLOCK_V": 64,
+  "BLOCK_D": 32,
+  "num_warps": 4,
+  "num_stages": 2,
+  "fwbw_ms_N8192": 553.4185241699219
+}

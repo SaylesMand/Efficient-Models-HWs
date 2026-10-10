@@ -1,0 +1,2 @@
+{"check": "shift", "shift_vs_manual": 0.0, "shift_vs_fp32": 1.811981201171875e-05}
+{"check": "determinism", "loss_equal": true, "dE_equal": false, "dC_equal": false, "dC_max_diff": 0.001220703125, "dC_rel_diff": 0.00060189951909706}

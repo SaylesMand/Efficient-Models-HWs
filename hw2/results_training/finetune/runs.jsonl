@@ -1,0 +1,6 @@
+{"method": "cce", "seed": 0, "wall_s": 697.1930572986603, "resumed_from": 0}
+{"method": "torch_compile", "seed": 0, "wall_s": 662.4133052825928, "resumed_from": 0}
+{"method": "cce", "seed": 1, "wall_s": 685.482745885849, "resumed_from": 0}
+{"method": "torch_compile", "seed": 1, "wall_s": 669.4320328235626, "resumed_from": 0}
+{"method": "cce", "seed": 2, "wall_s": 678.5022087097168, "resumed_from": 0}
+{"method": "torch_compile", "seed": 2, "wall_s": 664.5165688991547, "resumed_from": 0}

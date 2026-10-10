@@ -1,0 +1,16 @@
+{
+  "valid": {
+    "seconds": 40.35099720954895,
+    "n_tokens": 40960,
+    "n_examples": 304,
+    "frac_ignored": 0.0,
+    "nonfinite": false
+  },
+  "all": {
+    "seconds": 24.635156393051147,
+    "n_tokens": 40960,
+    "n_examples": 232,
+    "frac_ignored": 0.27189940214157104,
+    "nonfinite": false
+  }
+}

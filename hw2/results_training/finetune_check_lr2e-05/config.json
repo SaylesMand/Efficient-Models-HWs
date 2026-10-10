@@ -1,0 +1,29 @@
+{
+  "methods": [
+    "torch_compile"
+  ],
+  "seeds": [
+    0
+  ],
+  "steps": 500,
+  "stop_at": 150,
+  "batch": 8,
+  "max_len": 512,
+  "lr": 2e-05,
+  "warmup": 25,
+  "schedule": "linear warmup + linear decay",
+  "n_eval": 256,
+  "eval_every": 100,
+  "grad_ckpt": true,
+  "optimizer": "torch AdamW, weight_decay=0",
+  "grad_clip": 1.0,
+  "amp": "fp16 autocast + GradScaler",
+  "cce_block": {
+    "name": "b64_v64_w4",
+    "BLOCK_B": 64,
+    "BLOCK_V": 64,
+    "BLOCK_D": 32,
+    "num_warps": 4,
+    "num_stages": 2
+  }
+}

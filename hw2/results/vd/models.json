@@ -1,0 +1,23 @@
+{
+  "Qwen/Qwen2.5-0.5B-Instruct": {
+    "V": 151936,
+    "D": 896,
+    "V_over_D": 169.57142857142858,
+    "backbone_dtype": "torch.float32",
+    "nonfinite": false
+  },
+  "Qwen/Qwen2.5-1.5B-Instruct": {
+    "V": 151936,
+    "D": 1536,
+    "V_over_D": 98.91666666666667,
+    "backbone_dtype": "torch.float32",
+    "nonfinite": false
+  },
+  "Qwen/Qwen2.5-3B-Instruct": {
+    "V": 151936,
+    "D": 2048,
+    "V_over_D": 74.1875,
+    "backbone_dtype": "torch.float16",
+    "nonfinite": false
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Qwen2.5-0.5B-Instruct": {
+    "logits_mib": 37984.0,
+    "activations_mib": 2688.0,
+    "weights_opt_grad_mib": 3769.1708984375,
+    "max_tokens_before": 1973928.51140834,
+    "max_tokens_after": 29867418.30952381,
+    "increase": 15.130952380952381
+  },
+  "Gemma 2 (2B), проверка": {
+    "logits_mib": 64000.0,
+    "activations_mib": 7488.0,
+    "weights_opt_grad_mib": 19946.0,
+    "max_tokens_before": 1108206.3527305282,
+    "max_tokens_after": 10580055.521367522,
+    "increase": 9.547008547008547
+  }
+}
