@@ -1,0 +1,5 @@
+results*/cache/
+results*/ckpt/
+results*/log.txt
+__pycache__/
+*.pyc
